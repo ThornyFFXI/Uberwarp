@@ -1,0 +1,5 @@
+<entitydata>
+	<entry type="eschanpc" name="Affi" zone="288" index="584" posx="-357.000000" posy="-170.500000" posz="0.110000" menuid="9701" />
+	<entry type="eschanpc" name="Dremi" zone="289" index="750" posx="-10.000000" posy="-460.000000" posz="-34.000099" menuid="9701" />
+	<entry type="eschanpc" name="Shiftrix" zone="291" index="822" posx="-502.000000" posy="-486.000000" posz="-19.220608" menuid="9701" />
+</entitydata>
