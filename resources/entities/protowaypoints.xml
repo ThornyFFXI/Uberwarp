@@ -1,7 +1,0 @@
-<entitydata>
-	<entry type="protowaypoint" name="Proto-Waypoint" zone="247" index="90" posx="15.927000" posy="11.150000" posz="7.999000" menuid="141" />
-	<entry type="protowaypoint" name="Proto-Waypoint" zone="252" index="128" posx="-79.652000" posy="40.286999" posz="-1.313000" />
-	<entry type="protowaypoint" name="Proto-Waypoint" zone="243" index="254" posx="-37.819000" posy="-39.910999" posz="0.000000" menuid="10209" />
-	<entry type="protowaypoint" name="Proto-Waypoint" zone="248" index="115" posx="-31.375999" posy="-29.603001" posz="-0.777000" />
-	<entry type="protowaypoint" name="Proto-Waypoint" zone="249" index="139" posx="42.230000" posy="84.699997" posz="-16.049999" />
-</entitydata>
