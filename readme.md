@@ -1,0 +1,1 @@
+Uberwarp is a plugin used to trigger NPC warp systems via command line.  See HTML doc for full information.
